@@ -104,7 +104,7 @@ Feel free to explore the [wiki](https://github.com/Selivanof/Salonicraft/wiki) t
 
 ## Contributions
 
-Contributions to Salonicraft are welcome! If you have any suggestions, bug reports, or would like to contribute to the development of the mod, feel free to open an issue or submit a pull request on [GitHub](https://github.com/yourusername/salonicraft).
+Contributions to Salonicraft are welcome! If you have any suggestions, bug reports, or would like to contribute to the development of the mod, feel free to open an [issue](https://github.com/Selivanof/Salonicraft/issues) or submit a pull request.
 
 ## License
 
