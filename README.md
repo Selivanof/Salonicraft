@@ -80,9 +80,9 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Flour Sack              | Flour. In a sack.                         | ![Flour Sack](/github_resources/images/flour_sack.png) |
 | Cinnamon Log            | A new log (Cinnamon Tree)                 | ![Cinnamon Log](/github_resources/images/cinnamon_log.png) |
 | Enriched Cinnamon Log   | The cooler Cinnamon Log                   | ![Enriched Cinnamon Log](/github_resources/images/enriched_cinnamon_log.png) |
-| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_log.png) |
+| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_wood.png) |
 | Stripped Cinnamon Log   | A new stripped log (Cinnamon Tree)        | ![Stripped Cinnamon Log](/github_resources/images/stripped_cinnamon_log.png) |
-| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_log.png) |
+| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_wood.png) |
 | Cinnamon Leaves         | New leaves (Cinnamon Tree)                | ![Cinnamon Leaves](/github_resources/images/cinnamon_leaves.png) |
 | Cinnamon Planks         | New planks (Cinnamon Tree)                | ![Cinnamon Planks](/github_resources/images/cinnamon_planks.png) |
 | Cinnamon Slab           | New slab (Cinnamon Tree)                  | ![Cinnamon Slab](/github_resources/images/cinnamon_slab.png) |
@@ -94,7 +94,7 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Cinnamon Button         | New button (Cinnamon Tree)                | ![Cinnamon Button](/github_resources/images/cinnamon_button.png) |
 | Cinnamon Pressure Plate | New pressure plate (Cinnamon Tree)        | ![Cinnamon Pressure Plate](/github_resources/images/cinnamon_pressure_plate.png) |
 | Cinnamon Sign           | New sign (Cinnamon Tree)                  | ![Cinnamon Sign](/github_resources/images/cinnamon_sign.png) |
-| Cinnamon Hanging Sign   | New hanging sign (Cinnamon Tree)          | ![Cinnamon Hanging Sign](/github_resources/images/cinnamon_hanging_sign.png) |
+| Cinnamon Hanging Sign   | New hanging sign (Cinnamon Tree)          | ![Cinnamon Hanging Sign](/github_resources/images/hanging_cinnamon_sign.png) |
 | Cinnamon Boat           | New boat (Cinnamon Tree)                  | ![Cinnamon Boat](/github_resources/images/cinnamon_boat.png) |
 | Cinnamon Chest Boat     | New chest boat (Cinnamon Tree)            | ![Cinnamon Chest Boat](/github_resources/images/cinnamon_chest_boat.png) |
 
