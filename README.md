@@ -1,8 +1,13 @@
 ```diff
 ! This mod is in its Alpha stage. While basic functionality has been tested, it has NOT been extensively used in order to ensure that everything functions as expected. Stay tuned for more updates. !
 ```
+<img align="left" src="/github_resources/images/SalonicraftAlphaLogoRounded.png"  width="256" height="256">
+
 # Salonicraft (1.20.4)
+
 Welcome to Salonicraft, a Minecraft mod that brings the flavors and essence of Thessaloniki to your Minecraft world! From delicious foods like Mpougatsa and Koulouri to refreshing beverages like Frappes and Kakao, immerse yourself in the culinary delights of Thessaloniki.
+
+<br><br><br>
 
 ## Installation
 
