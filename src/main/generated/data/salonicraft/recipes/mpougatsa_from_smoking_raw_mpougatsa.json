@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 125,
+  "experience": 0.5,
+  "group": "mpougatsa",
+  "ingredient": {
+    "item": "salonicraft:raw_mpougatsa"
+  },
+  "result": "salonicraft:mpougatsa"
+}

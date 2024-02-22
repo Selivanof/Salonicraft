@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "salonicraft:block/powder_station"},
+    "facing=east":  { "model": "salonicraft:block/powder_station", "y":  90},
+    "facing=south": { "model": "salonicraft:block/powder_station", "y": 180},
+    "facing=west":  { "model": "salonicraft:block/powder_station", "y": 270}
+  }
+}

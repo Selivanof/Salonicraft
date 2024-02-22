@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "salonicraft:block/coffea_stage0"
+    },
+    "age=1": {
+      "model": "salonicraft:block/coffea_stage1"
+    },
+    "age=2": {
+      "model": "salonicraft:block/coffea_stage2"
+    },
+    "age=3": {
+      "model": "salonicraft:block/coffea_stage3"
+    },
+    "age=4": {
+      "model": "salonicraft:block/coffea_stage4"
+    },
+    "age=5": {
+      "model": "salonicraft:block/coffea_stage5"
+    },
+    "age=6": {
+      "model": "salonicraft:block/coffea_stage6"
+    },
+    "age=7": {
+      "model": "salonicraft:block/coffea_stage7"
+    }
+  }
+}

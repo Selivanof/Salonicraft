@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "salonicraft:block/cinnamon_sapling"
+  }
+}

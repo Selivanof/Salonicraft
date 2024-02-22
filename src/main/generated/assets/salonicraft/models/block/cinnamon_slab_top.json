@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "salonicraft:block/cinnamon_planks",
+    "side": "salonicraft:block/cinnamon_planks",
+    "top": "salonicraft:block/cinnamon_planks"
+  }
+}

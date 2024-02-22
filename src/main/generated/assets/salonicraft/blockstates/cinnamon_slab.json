@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "salonicraft:block/cinnamon_slab"
+    },
+    "type=double": {
+      "model": "salonicraft:block/cinnamon_planks"
+    },
+    "type=top": {
+      "model": "salonicraft:block/cinnamon_slab_top"
+    }
+  }
+}

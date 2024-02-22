@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "vanilla_extended",
+  "ingredient": {
+    "item": "salonicraft:dough"
+  },
+  "result": "minecraft:bread"
+}

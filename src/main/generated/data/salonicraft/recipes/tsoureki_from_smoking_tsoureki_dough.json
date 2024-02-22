@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.5,
+  "group": "tsoureki",
+  "ingredient": {
+    "item": "salonicraft:tsoureki_dough"
+  },
+  "result": "salonicraft:tsoureki"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "salonicraft:beverage",
+  "ingredients": [
+    {
+      "item": "salonicraft:drinking_glass"
+    },
+    {
+      "item": "salonicraft:milk_powder"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:glass_of_milk"
+  }
+}

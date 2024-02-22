@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "salonicraft:coffee_bean",
+    "minecraft:wheat",
+    "minecraft:milk_bucket",
+    "salonicraft:cinnamon_stick",
+    "minecraft:cocoa_beans",
+    "minecraft:sugar"
+  ]
+}

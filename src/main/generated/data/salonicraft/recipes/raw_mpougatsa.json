@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "salonicraft:sweet_phyllo_dough"
+    },
+    "C": {
+      "item": "salonicraft:custard"
+    }
+  },
+  "pattern": [
+    "###",
+    "CCC",
+    "###"
+  ],
+  "result": {
+    "item": "salonicraft:raw_mpougatsa"
+  }
+}

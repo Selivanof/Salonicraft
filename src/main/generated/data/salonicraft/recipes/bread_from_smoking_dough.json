@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 50,
+  "experience": 0.35,
+  "group": "vanilla_extended",
+  "ingredient": {
+    "item": "salonicraft:dough"
+  },
+  "result": "minecraft:bread"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "salonicraft:powder",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:milk_powder"
+  }
+}

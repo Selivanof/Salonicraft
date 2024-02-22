@@ -1,0 +1,11 @@
+{
+  "type": "salonicraft:powder",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:flour"
+  }
+}

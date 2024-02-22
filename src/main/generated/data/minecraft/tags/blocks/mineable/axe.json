@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "salonicraft:enriched_cinnamon_log",
+    "salonicraft:cinnamon_wood",
+    "salonicraft:cinnamon_planks",
+    "salonicraft:stripped_cinnamon_log",
+    "salonicraft:stripped_cinnamon_wood",
+    "salonicraft:cinnamon_button",
+    "salonicraft:cinnamon_pressure_plate",
+    "salonicraft:cinnamon_fence",
+    "salonicraft:cinnamon_fence_gate",
+    "salonicraft:cinnamon_door",
+    "salonicraft:cinnamon_trapdoor",
+    "salonicraft:cinnamon_slab",
+    "salonicraft:cinnamon_stairs"
+  ]
+}

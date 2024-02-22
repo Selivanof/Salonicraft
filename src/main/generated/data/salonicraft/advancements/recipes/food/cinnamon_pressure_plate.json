@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cinnamon_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:cinnamon_planks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_cinnamon_pressure_plate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:cinnamon_pressure_plate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:cinnamon_pressure_plate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cinnamon_pressure_plate",
+      "has_cinnamon_planks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:cinnamon_pressure_plate"
+    ]
+  }
+}

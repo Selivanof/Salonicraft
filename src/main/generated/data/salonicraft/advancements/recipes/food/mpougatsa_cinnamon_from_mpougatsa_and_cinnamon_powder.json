@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mpougatsa": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:mpougatsa"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_mpougatsa_cinnamon": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:mpougatsa_cinnamon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:mpougatsa_cinnamon_from_mpougatsa_and_cinnamon_powder"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mpougatsa",
+      "has_mpougatsa_cinnamon"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:mpougatsa_cinnamon_from_mpougatsa_and_cinnamon_powder"
+    ]
+  }
+}

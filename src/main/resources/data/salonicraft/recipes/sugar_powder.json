@@ -1,0 +1,11 @@
+{
+  "type": "salonicraft:powder",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:sugar_powder"
+  }
+}

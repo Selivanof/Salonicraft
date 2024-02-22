@@ -1,0 +1,11 @@
+{
+  "type": "salonicraft:powder",
+  "ingredients": [
+    {
+      "item": "salonicraft:coffee_bean"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:coffee_powder"
+  }
+}

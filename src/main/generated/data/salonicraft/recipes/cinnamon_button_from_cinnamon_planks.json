@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cinnamon_button",
+  "ingredients": [
+    {
+      "item": "salonicraft:cinnamon_planks"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:cinnamon_button"
+  }
+}

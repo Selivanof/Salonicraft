@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 40,
+  "experience": 0.1,
+  "group": "sweet_phyllo",
+  "ingredient": {
+    "item": "salonicraft:sweet_phyllo_dough"
+  },
+  "result": "salonicraft:cooked_sweet_phyllo"
+}

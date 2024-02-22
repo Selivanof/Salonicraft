@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:tsoureki_from_smelting_tsoureki_dough"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tsoureki_dough": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:tsoureki_dough"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tsoureki_dough"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:tsoureki_from_smelting_tsoureki_dough"
+    ]
+  }
+}

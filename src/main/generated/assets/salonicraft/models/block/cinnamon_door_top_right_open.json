@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "salonicraft:block/cinnamon_door_bottom",
+    "top": "salonicraft:block/cinnamon_door_top"
+  }
+}

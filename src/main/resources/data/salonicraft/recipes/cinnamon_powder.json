@@ -1,0 +1,11 @@
+{
+  "type": "salonicraft:powder",
+  "ingredients": [
+    {
+      "item": "salonicraft:cinnamon_stick"
+    }
+  ],
+  "output": {
+    "item": "salonicraft:cinnamon_powder"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "custard",
+  "ingredients": [
+    {
+      "tag": "salonicraft:sweetener"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "salonicraft:flour"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:custard"
+  }
+}

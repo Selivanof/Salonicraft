@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cinnamon_planks",
+  "ingredients": [
+    {
+      "item": "salonicraft:stripped_cinnamon_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "salonicraft:cinnamon_planks"
+  }
+}

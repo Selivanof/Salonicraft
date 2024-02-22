@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "com.oktavios.salonicraft.beverage.base.SugarVariantBeverage@1a982dcb_extra_sweet",
+  "ingredients": [
+    {
+      "tag": "salonicraft:sweetener"
+    },
+    {
+      "tag": "salonicraft:sweetener"
+    },
+    {
+      "tag": "salonicraft:sweetener"
+    },
+    {
+      "item": "salonicraft:glass_of_milk"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:glass_of_milk_extra_sweet"
+  }
+}

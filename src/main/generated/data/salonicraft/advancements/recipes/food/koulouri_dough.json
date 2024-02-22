@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dough": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:dough"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_koulouri_dough": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:koulouri_dough"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:koulouri_dough"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_koulouri_dough",
+      "has_dough"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:koulouri_dough"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "salonicraft:frapes_with_milk",
+    "salonicraft:frapes_with_milk_moderate",
+    "salonicraft:frapes_with_milk_sweet",
+    "salonicraft:frapes_with_milk_extra_sweet",
+    "salonicraft:frapes",
+    "salonicraft:frapes_moderate",
+    "salonicraft:frapes_sweet",
+    "salonicraft:frapes_extra_sweet",
+    "salonicraft:kakao",
+    "salonicraft:kakao_moderate",
+    "salonicraft:kakao_sweet",
+    "salonicraft:kakao_extra_sweet"
+  ]
+}

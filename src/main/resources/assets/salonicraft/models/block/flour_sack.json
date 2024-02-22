@@ -1,0 +1,10 @@
+{
+  "parent": "salonicraft:block/directional_full",
+  "textures": {
+    "bottom": "salonicraft:block/flour_sack_bottom",
+    "top": "salonicraft:block/flour_sack_top",
+    "front": "salonicraft:block/flour_sack_side_icon",
+    "back": "salonicraft:block/flour_sack_side_drop",
+    "side": "salonicraft:block/flour_sack_side_clean"
+  }
+}

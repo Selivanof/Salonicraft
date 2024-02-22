@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_kakao_extra_sweet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:kakao_extra_sweet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_kakao_sweet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:kakao_sweet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:kakao_extra_sweet_from_kakao_sweet_and_sweetener"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_kakao_sweet",
+      "has_kakao_extra_sweet"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:kakao_extra_sweet_from_kakao_sweet_and_sweetener"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "golden_breakfast",
+  "ingredients": [
+    {
+      "item": "salonicraft:kakao_moderate"
+    },
+    {
+      "item": "salonicraft:mpougatsa_full"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:golden_breakfast"
+  }
+}

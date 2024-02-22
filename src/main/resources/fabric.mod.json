@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "salonicraft",
+	"version": "${version}",
+	"name": "Salonicraft",
+	"description": "Enrich your minecraft experience with various Thessalonian delicacies!",
+	"authors": [
+		"Oktavios"
+	],
+	"contact": {
+		"homepage": "https://minecraft.oktavios.com/",
+		"sources": "https://github.com/Selivanof/Salonicraft"
+	},
+	"license": "GNU GPLv3",
+	"icon": "assets/salonicraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.oktavios.salonicraft.Salonicraft"
+		],
+		"client": [
+			"com.oktavios.salonicraft.SalonicraftClient"
+		],
+		"fabric-datagen": [
+			"com.oktavios.salonicraft.SalonicraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"salonicraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

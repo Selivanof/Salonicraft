@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "salonicraft:block/cinnamon_log_top",
+    "side": "salonicraft:block/cinnamon_log"
+  }
+}

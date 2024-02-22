@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "mpougatsa_full",
+  "ingredients": [
+    {
+      "item": "salonicraft:sugar_powder"
+    },
+    {
+      "item": "salonicraft:mpougatsa_cinnamon"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:mpougatsa_full"
+  }
+}

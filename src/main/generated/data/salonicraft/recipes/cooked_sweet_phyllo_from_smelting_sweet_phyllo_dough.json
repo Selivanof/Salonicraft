@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 80,
+  "experience": 0.1,
+  "group": "sweet_phyllo",
+  "ingredient": {
+    "item": "salonicraft:sweet_phyllo_dough"
+  },
+  "result": "salonicraft:cooked_sweet_phyllo"
+}

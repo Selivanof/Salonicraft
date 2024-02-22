@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "salonicraft:block/flour_sack"},
+    "facing=east":  { "model": "salonicraft:block/flour_sack", "y":  90},
+    "facing=south": { "model": "salonicraft:block/flour_sack", "y": 180},
+    "facing=west":  { "model": "salonicraft:block/flour_sack", "y": 270}
+  }
+}

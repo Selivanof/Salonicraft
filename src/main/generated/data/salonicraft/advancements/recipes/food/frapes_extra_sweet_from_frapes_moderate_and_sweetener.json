@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_frapes_extra_sweet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:frapes_extra_sweet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_frapes_moderate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:frapes_moderate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:frapes_extra_sweet_from_frapes_moderate_and_sweetener"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_frapes_moderate",
+      "has_frapes_extra_sweet"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:frapes_extra_sweet_from_frapes_moderate_and_sweetener"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north,capacity=3": { "model": "salonicraft:block/beverage_brewer_full" },
+    "facing=east,capacity=3":  { "model": "salonicraft:block/beverage_brewer_full", "y":  90 },
+    "facing=south,capacity=3": { "model": "salonicraft:block/beverage_brewer_full", "y": 180 },
+    "facing=west,capacity=3":  { "model": "salonicraft:block/beverage_brewer_full", "y": 270 },
+
+    "facing=north,capacity=0": { "model": "salonicraft:block/beverage_brewer_empty" },
+    "facing=east,capacity=0":  { "model": "salonicraft:block/beverage_brewer_empty", "y":  90 },
+    "facing=south,capacity=0": { "model": "salonicraft:block/beverage_brewer_empty", "y": 180 },
+    "facing=west,capacity=0":  { "model": "salonicraft:block/beverage_brewer_empty", "y": 270 },
+
+    "facing=north,capacity=2": { "model": "salonicraft:block/beverage_brewer_mid" },
+    "facing=east,capacity=2":  { "model": "salonicraft:block/beverage_brewer_mid", "y":  90 },
+    "facing=south,capacity=2": { "model": "salonicraft:block/beverage_brewer_mid", "y": 180 },
+    "facing=west,capacity=2":  { "model": "salonicraft:block/beverage_brewer_mid", "y": 270 },
+
+    "facing=north,capacity=1": { "model": "salonicraft:block/beverage_brewer_low" },
+    "facing=east,capacity=1":  { "model": "salonicraft:block/beverage_brewer_low", "y":  90 },
+    "facing=south,capacity=1": { "model": "salonicraft:block/beverage_brewer_low", "y": 180 },
+    "facing=west,capacity=1":  { "model": "salonicraft:block/beverage_brewer_low", "y": 270 }
+  }
+}

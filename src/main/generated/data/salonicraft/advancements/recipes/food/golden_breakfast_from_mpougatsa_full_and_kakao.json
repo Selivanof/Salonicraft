@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_golden_breakfast": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:golden_breakfast"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_mpougatsa_full": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:mpougatsa_full"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:golden_breakfast_from_mpougatsa_full_and_kakao"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mpougatsa_full",
+      "has_golden_breakfast"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:golden_breakfast_from_mpougatsa_full_and_kakao"
+    ]
+  }
+}

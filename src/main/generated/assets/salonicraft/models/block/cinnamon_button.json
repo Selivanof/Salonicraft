@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "salonicraft:block/cinnamon_planks"
+  }
+}

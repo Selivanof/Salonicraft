@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "salonicraft:enriched_cinnamon_log",
+    "salonicraft:cinnamon_wood",
+    "salonicraft:stripped_cinnamon_wood",
+    "salonicraft:stripped_cinnamon_log"
+  ]
+}

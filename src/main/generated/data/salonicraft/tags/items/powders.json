@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "salonicraft:cinnamon_powder",
+    "salonicraft:coffee_powder",
+    "salonicraft:milk_powder",
+    "salonicraft:cocoa_powder",
+    "salonicraft:sugar_powder",
+    "salonicraft:flour"
+  ]
+}

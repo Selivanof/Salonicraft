@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_glass_of_water": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:glass_of_water"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glass_of_water_extra_sweet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "salonicraft:glass_of_water_extra_sweet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "salonicraft:glass_of_water_extra_sweet_from_glass_of_water_and_sweetener"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_glass_of_water",
+      "has_glass_of_water_extra_sweet"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "salonicraft:glass_of_water_extra_sweet_from_glass_of_water_and_sweetener"
+    ]
+  }
+}
