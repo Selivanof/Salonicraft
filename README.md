@@ -33,20 +33,20 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Sweet Phyllo Dough               | Uncooked Food (Not Edible)| ![Sweet Phyllo Dough](/github_resources/images/sweet_phyllo_dough.png) |
 | Cooked Sweet Phyllo              | Food                      | ![Cooked Sweet Phyllo](/github_resources/images/cooked_sweet_phyllo.png) |
 | Raw Mpougatsa                    | Uncooked Food (Not Edible)| ![Raw Mpougatsa](/github_resources/images/raw_mpougatsa.png) |
-| Mpougatsa Thessalonikis          | Food                      | ![Mpougatsa Thessalonikis](/github_resources/images/mpougatsa_thessalonikis.png) |
-| Mpougatsa with Cinnamon          | Food                      | ![Mpougatsa with Cinnamon](/github_resources/images/mpougatsa_with_cinnamon.png) |
-| Mpougatsa with Sugar Powder      | Food                      | ![Mpougatsa with Sugar Powder](/github_resources/images/mpougatsa_with_sugar_powder.png) |
-| Authentic Mpougatsa Thessalonikis| Food                      | ![Authentic Mpougatsa Thessalonikis](/github_resources/images/authentic_mpougatsa_thessalonikis.png) |
+| Mpougatsa Thessalonikis          | Food                      | ![Mpougatsa Thessalonikis](/github_resources/images/mpougatsa.png) |
+| Mpougatsa with Cinnamon          | Food                      | ![Mpougatsa with Cinnamon](/github_resources/images/mpougatsa_cinnamon.png) |
+| Mpougatsa with Sugar Powder      | Food                      | ![Mpougatsa with Sugar Powder](/github_resources/images/mpougatsa_sugar.png) |
+| Authentic Mpougatsa Thessalonikis| Food                      | ![Authentic Mpougatsa Thessalonikis](/github_resources/images/mpougatsa_full.png) |
 | Golden Breakfast                 | Food                      | ![Golden Breakfast](/github_resources/images/golden_breakfast.png) |
 | Koulouri Dough                   | Uncooked Food (Not Edible)| ![Koulouri Dough](/github_resources/images/koulouri_dough.png) |
-| Strange Koulouri                 | Food                      | ![Strange Koulouri](/github_resources/images/strange_koulouri.png) |
-| Koulouri Thessalonikis           | Food                      | ![Koulouri Thessalonikis](/github_resources/images/koulouri_thessalonikis.png) |
+| Strange Koulouri                 | Food                      | ![Strange Koulouri](/github_resources/images/koulouri.png) |
+| Koulouri Thessalonikis           | Food                      | ![Koulouri Thessalonikis](/github_resources/images/koulouri_with_sesame.png) |
 | Tsoureki Dough                   | Uncooked Food (Not Edible)| ![Tsoureki Dough](/github_resources/images/tsoureki_dough.png) |
 | Tsoureki                         | Food                      | ![Tsoureki](/github_resources/images/tsoureki.png) |
 | Souvlaki                         | Uncooked Food (Edible)   | ![Souvlaki](/github_resources/images/souvlaki.png) |
 | Cooked Souvlaki                  | Food                      | ![Cooked Souvlaki](/github_resources/images/cooked_souvlaki.png) |
-| Coffee Beans                     | Ingredient (Plantable)   | ![Coffee Beans](/github_resources/images/coffee_beans.png) |
-| Cinnamon                         | Ingredient                | ![Cinnamon](/github_resources/images/cinnamon.png) |
+| Coffee Beans                     | Ingredient (Plantable)   | ![Coffee Beans](/github_resources/images/coffee_bean.png) |
+| Cinnamon                         | Ingredient                | ![Cinnamon](/github_resources/images/cinnamon_stick.png) |
 | Sesame Seeds                     | Ingredient (Plantable)   | ![Sesame Seeds](/github_resources/images/sesame_seeds.png) |
 | Cinnamon Powder                  | Ingredient (Powder)      | ![Cinnamon Powder](/github_resources/images/cinnamon_powder.png) |
 | Coffee Powder                    | Ingredient (Powder)      | ![Coffee Powder](/github_resources/images/coffee_powder.png) |
@@ -60,8 +60,8 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Frappes                          | Beverage                  | ![Frappes](/github_resources/images/frappes.png) |
 | Frappes with Milk                | Beverage                  | ![Frappes with Milk](/github_resources/images/frappes_with_milk.png) |
 | Kakao                            | Beverage                  | ![Kakao](/github_resources/images/kakao.png) |
-| One-Way OASTH Ticket             | ?                         | ![One-Way OASTH Ticket](/github_resources/images/one_way_oasth_ticket.png) |
-| Two-Way OASTH Ticket             | ?                         | ![Two-Way OASTH Ticket](/github_resources/images/two_way_oasth_ticket.png) |
+| One-Way OASTH Ticket             | ?                         | ![One-Way OASTH Ticket](/github_resources/images/one_way_ticket.png) |
+| Two-Way OASTH Ticket             | ?                         | ![Two-Way OASTH Ticket](/github_resources/images/two_way_ticket.png) |
 
 ## Custom Plants
 
@@ -69,7 +69,7 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 |--------------------|------------------------------|---------------------------------------------------|
 | Coffea             | Get ready to get caffeinated | ![Coffea](/github_resources/images/coffea.png)  |
 | Sesame Crop        | A new 2 block tall crop      | ![Sesame Crop](/github_resources/images/sesame_crop.png) |
-| Cinnamon Tree      | A new tree                   | ![Cinnamon Tree](/github_resources/images/cinnamon_tree.png) |
+| Cinnamon Tree      | A new tree                   | ![Cinnamon Tree](/github_resources/images/cinnamon_sapling.png) |
 
 ## Custom Blocks
 
@@ -80,9 +80,9 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Flour Sack              | Flour. In a sack.                         | ![Flour Sack](/github_resources/images/flour_sack.png) |
 | Cinnamon Log            | A new log (Cinnamon Tree)                 | ![Cinnamon Log](/github_resources/images/cinnamon_log.png) |
 | Enriched Cinnamon Log   | The cooler Cinnamon Log                   | ![Enriched Cinnamon Log](/github_resources/images/enriched_cinnamon_log.png) |
-| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_wood.png) |
+| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_log.png) |
 | Stripped Cinnamon Log   | A new stripped log (Cinnamon Tree)        | ![Stripped Cinnamon Log](/github_resources/images/stripped_cinnamon_log.png) |
-| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_wood.png) |
+| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_log.png) |
 | Cinnamon Leaves         | New leaves (Cinnamon Tree)                | ![Cinnamon Leaves](/github_resources/images/cinnamon_leaves.png) |
 | Cinnamon Planks         | New planks (Cinnamon Tree)                | ![Cinnamon Planks](/github_resources/images/cinnamon_planks.png) |
 | Cinnamon Slab           | New slab (Cinnamon Tree)                  | ![Cinnamon Slab](/github_resources/images/cinnamon_slab.png) |
