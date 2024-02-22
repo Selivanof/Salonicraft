@@ -10,7 +10,7 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 
 1. Download and install the Fabric Loader for Minecraft.
 2. Download the Fabric API mod and place it into the mods folder of your Minecraft directory.
-3. Download the latest version of Salonicraft from the Releases section.
+3. Download the latest version of Salonicraft from the [Releases](https://github.com/Selivanof/Salonicraft/releases) section.
 4. Place the downloaded .jar file into the mods folder of your Minecraft directory.
 5. Launch Minecraft with the Fabric loader profile.
 
