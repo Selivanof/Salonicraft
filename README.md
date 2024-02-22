@@ -26,77 +26,78 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 
 ## Custom Items
 
-| Item Name                        | Item Type                 | Image                                  |
-|----------------------------------|---------------------------|----------------------------------------|
-| Custard                          | Ingredient                | ![Custard](/images/custard.jpg)       |
-| Dough                            | Ingredient                | ![Dough](/images/dough.jpg)           |
-| Sweet Phyllo Dough               | Uncooked Food (Not Edible)| ![Sweet Phyllo Dough](/images/sweet_phyllo_dough.jpg) |
-| Cooked Sweet Phyllo              | Food                      | ![Cooked Sweet Phyllo](/images/cooked_sweet_phyllo.jpg) |
-| Raw Mpougatsa                    | Uncooked Food (Not Edible)| ![Raw Mpougatsa](/images/raw_mpougatsa.jpg) |
-| Mpougatsa Thessalonikis          | Food                      | ![Mpougatsa Thessalonikis](/images/mpougatsa_thessalonikis.jpg) |
-| Mpougatsa with Cinnamon          | Food                      | ![Mpougatsa with Cinnamon](/images/mpougatsa_with_cinnamon.jpg) |
-| Mpougatsa with Sugar Powder      | Food                      | ![Mpougatsa with Sugar Powder](/images/mpougatsa_with_sugar_powder.jpg) |
-| Authentic Mpougatsa Thessalonikis| Food                      | ![Authentic Mpougatsa Thessalonikis](/images/authentic_mpougatsa_thessalonikis.jpg) |
-| Golden Breakfast                 | Food                      | ![Golden Breakfast](/images/golden_breakfast.jpg) |
-| Koulouri Dough                   | Uncooked Food (Not Edible)| ![Koulouri Dough](/images/koulouri_dough.jpg) |
-| Strange Koulouri                 | Food                      | ![Strange Koulouri](/images/strange_koulouri.jpg) |
-| Koulouri Thessalonikis           | Food                      | ![Koulouri Thessalonikis](/images/koulouri_thessalonikis.jpg) |
-| Tsoureki Dough                   | Uncooked Food (Not Edible)| ![Tsoureki Dough](/images/tsoureki_dough.jpg) |
-| Tsoureki                         | Food                      | ![Tsoureki](/images/tsoureki.jpg)      |
-| Souvlaki                         | Uncooked Food (Edible)   | ![Souvlaki](/images/souvlaki.jpg)     |
-| Cooked Souvlaki                  | Food                      | ![Cooked Souvlaki](/images/cooked_souvlaki.jpg) |
-| Coffee Beans                     | Ingredient (Plantable)   | ![Coffee Beans](/images/coffee_beans.jpg) |
-| Cinnamon                         | Ingredient                | ![Cinnamon](/images/cinnamon.jpg)     |
-| Sesame Seeds                     | Ingredient (Plantable)   | ![Sesame Seeds](/images/sesame_seeds.jpg) |
-| Cinnamon Powder                  | Ingredient (Powder)      | ![Cinnamon Powder](/images/cinnamon_powder.jpg) |
-| Coffee Powder                    | Ingredient (Powder)      | ![Coffee Powder](/images/coffee_powder.jpg) |
-| Cocoa Powder                     | Ingredient (Powder)      | ![Cocoa Powder](/images/cocoa_powder.jpg) |
-| Sugar Powder                     | Ingredient (Powder)      | ![Sugar Powder](/images/sugar_powder.jpg) |
-| Milk Powder                      | Ingredient (Powder)      | ![Milk Powder](/images/milk_powder.jpg) |
-| Flour                            | Ingredient (Powder)      | ![Flour](/images/flour.jpg)           |
-| Drinking Glass                   | Beverage Container        | ![Drinking Glass](/images/drinking_glass.jpg) |
-| Glass of Water                   | Beverage                  | ![Glass of Water](/images/glass_of_water.jpg) |
-| Glass of Milk                    | Beverage                  | ![Glass of Milk](/images/glass_of_milk.jpg) |
-| Frappes                          | Beverage                  | ![Frappes](/images/frappes.jpg)       |
-| Frappes with Milk                | Beverage                  | ![Frappes with Milk](/images/frappes_with_milk.jpg) |
-| Kakao                            | Beverage                  | ![Kakao](/images/kakao.jpg)           |
-| One-Way OASTH Ticket             | ?                         | ![One-Way OASTH Ticket](/images/one_way_oasth_ticket.jpg) |
-| Two-Way OASTH Ticket             | ?                         | ![Two-Way OASTH Ticket](/images/two_way_oasth_ticket.jpg) |
+| Item Name                        | Item Type                 | Image                                             |
+|----------------------------------|---------------------------|---------------------------------------------------|
+| Custard                          | Ingredient                | ![Custard](/github_resources/images/custard.png) |
+| Dough                            | Ingredient                | ![Dough](/github_resources/images/dough.png)     |
+| Sweet Phyllo Dough               | Uncooked Food (Not Edible)| ![Sweet Phyllo Dough](/github_resources/images/sweet_phyllo_dough.png) |
+| Cooked Sweet Phyllo              | Food                      | ![Cooked Sweet Phyllo](/github_resources/images/cooked_sweet_phyllo.png) |
+| Raw Mpougatsa                    | Uncooked Food (Not Edible)| ![Raw Mpougatsa](/github_resources/images/raw_mpougatsa.png) |
+| Mpougatsa Thessalonikis          | Food                      | ![Mpougatsa Thessalonikis](/github_resources/images/mpougatsa_thessalonikis.png) |
+| Mpougatsa with Cinnamon          | Food                      | ![Mpougatsa with Cinnamon](/github_resources/images/mpougatsa_with_cinnamon.png) |
+| Mpougatsa with Sugar Powder      | Food                      | ![Mpougatsa with Sugar Powder](/github_resources/images/mpougatsa_with_sugar_powder.png) |
+| Authentic Mpougatsa Thessalonikis| Food                      | ![Authentic Mpougatsa Thessalonikis](/github_resources/images/authentic_mpougatsa_thessalonikis.png) |
+| Golden Breakfast                 | Food                      | ![Golden Breakfast](/github_resources/images/golden_breakfast.png) |
+| Koulouri Dough                   | Uncooked Food (Not Edible)| ![Koulouri Dough](/github_resources/images/koulouri_dough.png) |
+| Strange Koulouri                 | Food                      | ![Strange Koulouri](/github_resources/images/strange_koulouri.png) |
+| Koulouri Thessalonikis           | Food                      | ![Koulouri Thessalonikis](/github_resources/images/koulouri_thessalonikis.png) |
+| Tsoureki Dough                   | Uncooked Food (Not Edible)| ![Tsoureki Dough](/github_resources/images/tsoureki_dough.png) |
+| Tsoureki                         | Food                      | ![Tsoureki](/github_resources/images/tsoureki.png) |
+| Souvlaki                         | Uncooked Food (Edible)   | ![Souvlaki](/github_resources/images/souvlaki.png) |
+| Cooked Souvlaki                  | Food                      | ![Cooked Souvlaki](/github_resources/images/cooked_souvlaki.png) |
+| Coffee Beans                     | Ingredient (Plantable)   | ![Coffee Beans](/github_resources/images/coffee_beans.png) |
+| Cinnamon                         | Ingredient                | ![Cinnamon](/github_resources/images/cinnamon.png) |
+| Sesame Seeds                     | Ingredient (Plantable)   | ![Sesame Seeds](/github_resources/images/sesame_seeds.png) |
+| Cinnamon Powder                  | Ingredient (Powder)      | ![Cinnamon Powder](/github_resources/images/cinnamon_powder.png) |
+| Coffee Powder                    | Ingredient (Powder)      | ![Coffee Powder](/github_resources/images/coffee_powder.png) |
+| Cocoa Powder                     | Ingredient (Powder)      | ![Cocoa Powder](/github_resources/images/cocoa_powder.png) |
+| Sugar Powder                     | Ingredient (Powder)      | ![Sugar Powder](/github_resources/images/sugar_powder.png) |
+| Milk Powder                      | Ingredient (Powder)      | ![Milk Powder](/github_resources/images/milk_powder.png) |
+| Flour                            | Ingredient (Powder)      | ![Flour](/github_resources/images/flour.png) |
+| Drinking Glass                   | Beverage Container        | ![Drinking Glass](/github_resources/images/drinking_glass.png) |
+| Glass of Water                   | Beverage                  | ![Glass of Water](/github_resources/images/glass_of_water.png) |
+| Glass of Milk                    | Beverage                  | ![Glass of Milk](/github_resources/images/glass_of_milk.png) |
+| Frappes                          | Beverage                  | ![Frappes](/github_resources/images/frappes.png) |
+| Frappes with Milk                | Beverage                  | ![Frappes with Milk](/github_resources/images/frappes_with_milk.png) |
+| Kakao                            | Beverage                  | ![Kakao](/github_resources/images/kakao.png) |
+| One-Way OASTH Ticket             | ?                         | ![One-Way OASTH Ticket](/github_resources/images/one_way_oasth_ticket.png) |
+| Two-Way OASTH Ticket             | ?                         | ![Two-Way OASTH Ticket](/github_resources/images/two_way_oasth_ticket.png) |
 
 ## Custom Plants
 
-| Item Name          | Description                  | Image                                |
-|--------------------|------------------------------|--------------------------------------|
-| Coffea             | Get ready to get caffeinated | ![Coffea](/images/coffea.jpg)       |
-| Sesame Crop        | A new 2 block tall crop      | ![Sesame Crop](/images/sesame_crop.jpg) |
-| Cinnamon Tree      | A new tree                   | ![Cinnamon Tree](/images/cinnamon_tree.jpg) |
+| Item Name          | Description                  | Image                                             |
+|--------------------|------------------------------|---------------------------------------------------|
+| Coffea             | Get ready to get caffeinated | ![Coffea](/github_resources/images/coffea.png)  |
+| Sesame Crop        | A new 2 block tall crop      | ![Sesame Crop](/github_resources/images/sesame_crop.png) |
+| Cinnamon Tree      | A new tree                   | ![Cinnamon Tree](/github_resources/images/cinnamon_tree.png) |
 
 ## Custom Blocks
 
-| Item Name               | Description                               | Image                                |
-|-------------------------|-------------------------------------------|--------------------------------------|
-| Powder Station          | A new crafting block that creates powders | ![Powder Station](/images/powder_station.jpg) |
-| Beverage Brewer         | A new crafting block that makes beverages | ![Beverage Brewer](/images/beverage_brewer.jpg) |
-| Flour Sack              | Flour. In a sack.                         | ![Flour Sack](/images/flour_sack.jpg) |
-| Cinnamon Log            | A new log (Cinnamon Tree)                 | ![Cinnamon Log](/images/cinnamon_log.jpg) |
-| Enriched Cinnamon Log   | The cooler Cinnamon Log                   | ![Enriched Cinnamon Log](/images/enriched_cinnamon_log.jpg) |
-| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/images/cinnamon_wood.jpg) |
-| Stripped Cinnamon Log   | A new stripped log (Cinnamon Tree)        | ![Stripped Cinnamon Log](/images/stripped_cinnamon_log.jpg) |
-| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/images/stripped_cinnamon_wood.jpg) |
-| Cinnamon Leaves         | New leaves (Cinnamon Tree)                | ![Cinnamon Leaves](/images/cinnamon_leaves.jpg) |
-| Cinnamon Planks         | New planks (Cinnamon Tree)                | ![Cinnamon Planks](/images/cinnamon_planks.jpg) |
-| Cinnamon Slab           | New slab (Cinnamon Tree)                  | ![Cinnamon Slab](/images/cinnamon_slab.jpg) |
-| Cinnamon Stairs         | New stairs (Cinnamon Tree)                | ![Cinnamon Stairs](/images/cinnamon_stairs.jpg) |
-| Cinnamon Door           | New door (Cinnamon Tree)                  | ![Cinnamon Door](/images/cinnamon_door.jpg) |
-| Cinnamon Trapdoor       | New trapdoor (Cinnamon Tree)              | ![Cinnamon Trapdoor](/images/cinnamon_trapdoor.jpg) |
-| Cinnamon Fence          | New fence (Cinnamon Tree)                 | ![Cinnamon Fence](/images/cinnamon_fence.jpg) |
-| Cinnamon Fence Gate     | New fence gate (Cinnamon Tree)            | ![Cinnamon Fence Gate](/images/cinnamon_fence_gate.jpg) |
-| Cinnamon Button         | New button (Cinnamon Tree)                | ![Cinnamon Button](/images/cinnamon_button.jpg) |
-| Cinnamon Pressure Plate | New pressure plate (Cinnamon Tree)        | ![Cinnamon Pressure Plate](/images/cinnamon_pressure_plate.jpg) |
-| Cinnamon Sign           | New sign (Cinnamon Tree)                  | ![Cinnamon Sign](/images/cinnamon_sign.jpg) |
-| Cinnamon Hanging Sign   | New hanging sign (Cinnamon Tree)          | ![Cinnamon Hanging Sign](/images/cinnamon_hanging_sign.jpg) |
-| Cinnamon Boat           | New boat (Cinnamon Tree)                  | ![Cinnamon Boat](/images/cinnamon_boat.jpg) |
-| Cinnamon Chest Boat     | New chest boat (Cinnamon Tree)            | ![Cinnamon Chest Boat](/images/cinnamon_chest_boat.jpg) |
+| Item Name               | Description                               | Image                                             |
+|-------------------------|-------------------------------------------|---------------------------------------------------|
+| Powder Station          | A new crafting block that creates powders | ![Powder Station](/github_resources/images/powder_station.png) |
+| Beverage Brewer         | A new crafting block that makes beverages | ![Beverage Brewer](/github_resources/images/beverage_brewer.png) |
+| Flour Sack              | Flour. In a sack.                         | ![Flour Sack](/github_resources/images/flour_sack.png) |
+| Cinnamon Log            | A new log (Cinnamon Tree)                 | ![Cinnamon Log](/github_resources/images/cinnamon_log.png) |
+| Enriched Cinnamon Log   | The cooler Cinnamon Log                   | ![Enriched Cinnamon Log](/github_resources/images/enriched_cinnamon_log.png) |
+| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_wood.png) |
+| Stripped Cinnamon Log   | A new stripped log (Cinnamon Tree)        | ![Stripped Cinnamon Log](/github_resources/images/stripped_cinnamon_log.png) |
+| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_wood.png) |
+| Cinnamon Leaves         | New leaves (Cinnamon Tree)                | ![Cinnamon Leaves](/github_resources/images/cinnamon_leaves.png) |
+| Cinnamon Planks         | New planks (Cinnamon Tree)                | ![Cinnamon Planks](/github_resources/images/cinnamon_planks.png) |
+| Cinnamon Slab           | New slab (Cinnamon Tree)                  | ![Cinnamon Slab](/github_resources/images/cinnamon_slab.png) |
+| Cinnamon Stairs         | New stairs (Cinnamon Tree)                | ![Cinnamon Stairs](/github_resources/images/cinnamon_stairs.png) |
+| Cinnamon Door           | New door (Cinnamon Tree)                  | ![Cinnamon Door](/github_resources/images/cinnamon_door.png) |
+| Cinnamon Trapdoor       | New trapdoor (Cinnamon Tree)              | ![Cinnamon Trapdoor](/github_resources/images/cinnamon_trapdoor.png) |
+| Cinnamon Fence          | New fence (Cinnamon Tree)                 | ![Cinnamon Fence](/github_resources/images/cinnamon_fence.png) |
+| Cinnamon Fence Gate     | New fence gate (Cinnamon Tree)            | ![Cinnamon Fence Gate](/github_resources/images/cinnamon_fence_gate.png) |
+| Cinnamon Button         | New button (Cinnamon Tree)                | ![Cinnamon Button](/github_resources/images/cinnamon_button.png) |
+| Cinnamon Pressure Plate | New pressure plate (Cinnamon Tree)        | ![Cinnamon Pressure Plate](/github_resources/images/cinnamon_pressure_plate.png) |
+| Cinnamon Sign           | New sign (Cinnamon Tree)                  | ![Cinnamon Sign](/github_resources/images/cinnamon_sign.png) |
+| Cinnamon Hanging Sign   | New hanging sign (Cinnamon Tree)          | ![Cinnamon Hanging Sign](/github_resources/images/cinnamon_hanging_sign.png) |
+| Cinnamon Boat           | New boat (Cinnamon Tree)                  | ![Cinnamon Boat](/github_resources/images/cinnamon_boat.png) |
+| Cinnamon Chest Boat     | New chest boat (Cinnamon Tree)            | ![Cinnamon Chest Boat](/github_resources/images/cinnamon_chest_boat.png) |
+
 
 ## Wiki
 
