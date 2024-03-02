@@ -1,13 +1,41 @@
 ```diff
 ! This mod is in its Alpha stage. While basic functionality has been tested, it has NOT been extensively used in order to ensure that everything functions as expected. Stay tuned for more updates. !
 ```
-<img align="left" src="/github_resources/images/SalonicraftAlphaLogoRounded.png"  width="256" height="256">
 
-# Salonicraft (1.20.4)
+<div align="center">
+
+
+  <a href=""> ![Static Badge](https://img.shields.io/badge/Latest%20Release%20-%200.1.0%20-%20purple?link=https%3A%2F%2Fgithub.com%2FSelivanof%2FSalonicraft%2Freleases)</a>
+  <a href=""> ![Static Badge](https://img.shields.io/badge/Minecraft%20Version%20-%201.20.4%20-%20green)</a>
+
+</div>
+
+<br />
+<div align="center">
+  <a>
+    <img src="/github_resources/images/SalonicraftAlphaLogoRounded.png" alt="Logo" width="128" height="128">
+  </a>
+
+<h3 align="center">Salonicraft 1.20.4</h3>
+
+  <p align="center">
+    Bring the flavors of Thessaloniki to Minecraft!
+    <br />
+    <a href="https://github.com/Selivanof/Salonicraft/wiki"><strong>Explore the wiki »</strong></a>
+    <br />
+    <br />
+    <a href="https://modrinth.com/mod/salonicraft">View on Modrinth</a>
+    ·
+    <a href="https://github.com/Selivanof/Salonicraft/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Selivanof/Salonicraft/issues">Request Feature</a>
+  </p>
+</div>
+
+## About this mod
 
 Welcome to Salonicraft, a Minecraft mod that brings the flavors and essence of Thessaloniki to your Minecraft world! From delicious foods like Mpougatsa and Koulouri to refreshing beverages like Frappes and Kakao, immerse yourself in the culinary delights of Thessaloniki.
 
-<br><br><br>
 
 ## Installation
 
@@ -73,21 +101,21 @@ Salonicraft is a Fabric-only mod. To install it follow these steps:
 | Item Name          | Description                  | Image                                             |
 |--------------------|------------------------------|---------------------------------------------------|
 | Coffea             | Get ready to get caffeinated | ![Coffea](/github_resources/images/coffea.png)  |
-| Sesame Crop        | A new 2 block tall crop      | ![Sesame Crop](/github_resources/images/sesame_crop.png) |
-| Cinnamon Tree      | A new tree                   | ![Cinnamon Tree](/github_resources/images/cinnamon_sapling.png) |
+| Sesame Crop        | New 2 block tall crop        | ![Sesame Crop](/github_resources/images/sesame_crop.png) |
+| Cinnamon Tree      | New tree                     | ![Cinnamon Tree](/github_resources/images/cinnamon_sapling.png) |
 
 ## Custom Blocks
 
 | Item Name               | Description                               | Image                                             |
 |-------------------------|-------------------------------------------|---------------------------------------------------|
-| Powder Station          | A new crafting block that creates powders | ![Powder Station](/github_resources/images/powder_station.png) |
-| Beverage Brewer         | A new crafting block that makes beverages | ![Beverage Brewer](/github_resources/images/beverage_brewer.png) |
+| Powder Station          | New crafting block that creates powders   | ![Powder Station](/github_resources/images/powder_station.png) |
+| Beverage Brewer         | New crafting block that makes beverages   | ![Beverage Brewer](/github_resources/images/beverage_brewer.png) |
 | Flour Sack              | Flour. In a sack.                         | ![Flour Sack](/github_resources/images/flour_sack.png) |
-| Cinnamon Log            | A new log (Cinnamon Tree)                 | ![Cinnamon Log](/github_resources/images/cinnamon_log.png) |
+| Cinnamon Log            | New log (Cinnamon Tree)                   | ![Cinnamon Log](/github_resources/images/cinnamon_log.png) |
 | Enriched Cinnamon Log   | The cooler Cinnamon Log                   | ![Enriched Cinnamon Log](/github_resources/images/enriched_cinnamon_log.png) |
-| Cinnamon Wood           | A new wood (Cinnamon Tree)                | ![Cinnamon Wood](/github_resources/images/cinnamon_wood.png) |
-| Stripped Cinnamon Log   | A new stripped log (Cinnamon Tree)        | ![Stripped Cinnamon Log](/github_resources/images/stripped_cinnamon_log.png) |
-| Stripped Cinnamon Wood  | A new stripped wood (Cinnamon Tree)       | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_wood.png) |
+| Cinnamon Wood           | New wood (Cinnamon Tree)                  | ![Cinnamon Wood](/github_resources/images/cinnamon_wood.png) |
+| Stripped Cinnamon Log   | New stripped log (Cinnamon Tree)          | ![Stripped Cinnamon Log](/github_resources/images/stripped_cinnamon_log.png) |
+| Stripped Cinnamon Wood  | New stripped wood (Cinnamon Tree)         | ![Stripped Cinnamon Wood](/github_resources/images/stripped_cinnamon_wood.png) |
 | Cinnamon Leaves         | New leaves (Cinnamon Tree)                | ![Cinnamon Leaves](/github_resources/images/cinnamon_leaves.png) |
 | Cinnamon Planks         | New planks (Cinnamon Tree)                | ![Cinnamon Planks](/github_resources/images/cinnamon_planks.png) |
 | Cinnamon Slab           | New slab (Cinnamon Tree)                  | ![Cinnamon Slab](/github_resources/images/cinnamon_slab.png) |
