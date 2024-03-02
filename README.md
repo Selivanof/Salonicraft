@@ -5,7 +5,7 @@
 <div align="center">
 
 
-  <a href=""> ![Static Badge](https://img.shields.io/badge/Latest%20Release%20-%200.1.0%20-%20purple?link=https%3A%2F%2Fgithub.com%2FSelivanof%2FSalonicraft%2Freleases)</a>
+  <a href="https://github.com/Selivanof/Salonicraft/releases"> ![Static Badge](https://img.shields.io/badge/Latest%20Release%20-%200.1.0%20-%20purple)</a>
   <a href=""> ![Static Badge](https://img.shields.io/badge/Minecraft%20Version%20-%201.20.4%20-%20green)</a>
 
 </div>
