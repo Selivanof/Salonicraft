@@ -9,7 +9,7 @@ import net.minecraft.world.gen.GenerationStep;
 public class SalonicraftWorldGeneration {
 
     public static void generateTrees() {
-        BiomeModifications.addFeature(BiomeSelectors.includeByKey(BiomeKeys.DARK_FOREST, BiomeKeys.FOREST),
+        BiomeModifications.addFeature(BiomeSelectors.includeByKey(BiomeKeys.DARK_FOREST, BiomeKeys.FOREST, BiomeKeys.FLOWER_FOREST),
                 GenerationStep.Feature.VEGETAL_DECORATION, SalonicraftPlacedFeatures.CINNAMON_PLACED_KEY);
     }
 }

@@ -28,7 +28,7 @@ public class SalonicraftPlacedFeatures {
 
 
         register(context, CINNAMON_PLACED_KEY, configuredFeatureRegistryEntryLookup.getOrThrow(SalonicraftConfiguredFeatures.CINNAMON_KEY),
-                VegetationPlacedFeatures.treeModifiersWithWouldSurvive(PlacedFeatures.createCountExtraModifier(0, 0.02f, 1),
+                VegetationPlacedFeatures.treeModifiersWithWouldSurvive(PlacedFeatures.createCountExtraModifier(0, 0.01f, 1),
                         SalonicraftBlocks.CINNAMON_SAPLING));
     }
     public static RegistryKey<PlacedFeature> registerKey(String name) {
