@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "group": "com.oktavios.salonicraft.beverage.base.SugarVariantBeverage@55475cdb_extra_sweet",
+  "group": "com.oktavios.salonicraft.beverage.base.SugarVariantBeverage@43710cec_extra_sweet",
   "ingredients": [
     {
       "tag": "salonicraft:sweetener"
@@ -10,10 +10,10 @@
       "tag": "salonicraft:sweetener"
     },
     {
-      "item": "salonicraft:kakao_moderate"
+      "item": "salonicraft:frappes_with_milk_moderate"
     }
   ],
   "result": {
-    "item": "salonicraft:kakao_extra_sweet"
+    "item": "salonicraft:frappes_with_milk_extra_sweet"
   }
 }

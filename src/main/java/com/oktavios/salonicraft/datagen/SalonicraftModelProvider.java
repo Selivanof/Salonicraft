@@ -93,8 +93,8 @@ public class SalonicraftModelProvider extends FabricModelProvider {
 
         itemModelGenerator.register(BeverageEssentials.DRINKING_GLASS, Models.GENERATED);
         BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.KAKAO);
-        BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.FRAPES);
-        BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.FRAPES_WITH_MILK);
+        BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.FRAPPES);
+        BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.FRAPPES_WITH_MILK);
         BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.GLASS_OF_WATER);
         BeverageUtils.addSugVarBeverageModels(itemModelGenerator, SalonicraftBeverages.GLASS_OF_MILK);
 

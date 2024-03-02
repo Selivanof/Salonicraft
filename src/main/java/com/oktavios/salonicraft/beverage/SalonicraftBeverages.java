@@ -13,11 +13,11 @@ import net.minecraft.util.Identifier;
 public class SalonicraftBeverages {
 
 
-    public static final SugarVariantBeverage FRAPES = new SugarVariantBeverage.Builder("frapes")
-            .BeverageComponent(SalonicraftBeverageComponents.FRAPES).build();
+    public static final SugarVariantBeverage FRAPPES = new SugarVariantBeverage.Builder("frappes")
+            .BeverageComponent(SalonicraftBeverageComponents.FRAPPES).build();
 
-    public static final SugarVariantBeverage FRAPES_WITH_MILK = new SugarVariantBeverage.Builder("frapes_with_milk")
-            .BeverageComponent(SalonicraftBeverageComponents.FRAPES_WITH_MILK).build();
+    public static final SugarVariantBeverage FRAPPES_WITH_MILK = new SugarVariantBeverage.Builder("frappes_with_milk")
+            .BeverageComponent(SalonicraftBeverageComponents.FRAPPES_WITH_MILK).build();
 
     public static final SugarVariantBeverage KAKAO = new SugarVariantBeverage.Builder("kakao")
             .BeverageComponent(SalonicraftBeverageComponents.KAKAO).build();
@@ -29,8 +29,8 @@ public class SalonicraftBeverages {
             .BeverageComponent(SalonicraftBeverageComponents.GLASS_OF_MILK).build();
     private static void addItemsToFoodAndDrinks(FabricItemGroupEntries entries) {
 
-        BeverageUtils.addSugVarBeverageEntires(entries, FRAPES);
-        BeverageUtils.addSugVarBeverageEntires(entries, FRAPES_WITH_MILK);
+        BeverageUtils.addSugVarBeverageEntires(entries, FRAPPES);
+        BeverageUtils.addSugVarBeverageEntires(entries, FRAPPES_WITH_MILK);
         BeverageUtils.addSugVarBeverageEntires(entries, KAKAO);
         BeverageUtils.addSugVarBeverageEntires(entries, GLASS_OF_WATER);
         BeverageUtils.addSugVarBeverageEntires(entries, GLASS_OF_MILK);

@@ -15,8 +15,8 @@ public class SalonicraftEnUsLangProvider extends FabricLanguageProvider {
 
     @Override
     public void generateTranslations(TranslationBuilder translationBuilder) {
-        BeverageUtils.addSugVarCoffeeTranslations(translationBuilder, SalonicraftBeverages.FRAPES,"Frapes");
-        BeverageUtils.addSugVarCoffeeTranslations(translationBuilder, SalonicraftBeverages.FRAPES_WITH_MILK,"Frapes with Milk");
+        BeverageUtils.addSugVarCoffeeTranslations(translationBuilder, SalonicraftBeverages.FRAPPES,"Frappes");
+        BeverageUtils.addSugVarCoffeeTranslations(translationBuilder, SalonicraftBeverages.FRAPPES_WITH_MILK,"Frappes with Milk");
         BeverageUtils.addSugVarBeverageTranslations(translationBuilder, SalonicraftBeverages.KAKAO,"Kakao");
         BeverageUtils.addSugVarBeverageTranslations(translationBuilder, SalonicraftBeverages.GLASS_OF_WATER,"Glass of Water");
         BeverageUtils.addSugVarBeverageTranslations(translationBuilder, SalonicraftBeverages.GLASS_OF_MILK,"Glass of Milk");

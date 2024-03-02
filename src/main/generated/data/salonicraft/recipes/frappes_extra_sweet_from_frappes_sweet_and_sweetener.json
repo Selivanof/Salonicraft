@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "com.oktavios.salonicraft.beverage.base.SugarVariantBeverage@1220eb72_extra_sweet",
+  "ingredients": [
+    {
+      "tag": "salonicraft:sweetener"
+    },
+    {
+      "item": "salonicraft:frappes_sweet"
+    }
+  ],
+  "result": {
+    "item": "salonicraft:frappes_extra_sweet"
+  }
+}

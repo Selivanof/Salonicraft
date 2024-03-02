@@ -5,13 +5,13 @@ import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 
 public class SalonicraftBeverageComponents {
-    public static final BeverageComponent FRAPES =
+    public static final BeverageComponent FRAPPES =
             new BeverageComponent.Builder()
                     .statusEffect(new StatusEffectInstance(StatusEffects.SPEED, 1000), 0.5f)
                     .container(BeverageEssentials.DRINKING_GLASS)
                     .health(4).build();
 
-    public static final BeverageComponent FRAPES_WITH_MILK =
+    public static final BeverageComponent FRAPPES_WITH_MILK =
             new BeverageComponent.Builder()
                     .statusEffect(new StatusEffectInstance(StatusEffects.SPEED, 1000), 0.5f)
                     .container(BeverageEssentials.DRINKING_GLASS)

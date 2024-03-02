@@ -45,8 +45,8 @@ public class SalonicraftRecipeProvider extends FabricRecipeProvider {
 
         offerReversibleCompactingRecipes(exporter, RecipeCategory.DECORATIONS, SalonicraftItems.FLOUR, RecipeCategory.FOOD, SalonicraftBlocks.FLOUR_SACK);
         BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.KAKAO);
-        BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.FRAPES);
-        BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.FRAPES_WITH_MILK);
+        BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.FRAPPES);
+        BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.FRAPPES_WITH_MILK);
         BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.GLASS_OF_WATER);
         BeverageUtils.addSugVarBeverageRecipes(exporter, SalonicraftBeverages.GLASS_OF_MILK);
 

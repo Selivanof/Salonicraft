@@ -59,8 +59,8 @@ public class SalonicraftItemTagProvider extends FabricTagProvider.ItemTagProvide
                 .add(SalonicraftBlocks.STRIPPED_CINNAMON_WOOD.asItem())
                 .add(SalonicraftBlocks.STRIPPED_CINNAMON_LOG.asItem());
 
-        BeverageUtils.addSugVarBeverageToTag(this, SalonicraftTags.Items.BEVERAGE, SalonicraftBeverages.FRAPES_WITH_MILK);
-        BeverageUtils.addSugVarBeverageToTag(this, SalonicraftTags.Items.BEVERAGE, SalonicraftBeverages.FRAPES);
+        BeverageUtils.addSugVarBeverageToTag(this, SalonicraftTags.Items.BEVERAGE, SalonicraftBeverages.FRAPPES_WITH_MILK);
+        BeverageUtils.addSugVarBeverageToTag(this, SalonicraftTags.Items.BEVERAGE, SalonicraftBeverages.FRAPPES);
         BeverageUtils.addSugVarBeverageToTag(this, SalonicraftTags.Items.BEVERAGE, SalonicraftBeverages.KAKAO);
 
         getOrCreateTagBuilder(BeverageTags.Items.BEVERAGE_CONTAINER)
